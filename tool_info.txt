@@ -1,0 +1,10 @@
+######## tool_info.txt
+######## PLEASE provide the path for these tools based on this template
+######## do not change the variable name, only change the path 
+SAMTOOLS_PATH=/Volumes/Users/James/tools/samtools-0.1.18/
+BEDTOOLS_PATH=/Volumes/Users/James/tools/BEDTools/2.16.2/bin/
+PICARD_PATH=/Volumes/Users/James/tools/picard/1.77/
+JAVA_PATH=/usr/java/jdk1.6.0_31/bin/
+R_PATH=/Volumes/Users/James/tools/r/R-3.2.3/bin/
+PERL_PATH=/Volumes/Users/James/tools/perl/5.18.1/bin/
+
